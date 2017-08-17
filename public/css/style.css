@@ -1,0 +1,44 @@
+#app {
+  padding-bottom: 30px;
+}
+
+.primary {
+  padding: 2px;
+}
+
+.error_wrapper {
+  max-width: 600px;
+  margin: 0 auto;
+}
+label {
+  text-align: right;
+  margin-right: -20px;
+  padding-top: 8px;
+}
+
+h3 {
+  margin-top: -10px;
+  text-align: center;
+  color: navy;
+}
+
+.list_item {
+  list-style: none;
+  font-size: 18px;
+  line-height: 30px;
+}
+.logged_name {
+  font-weight: bold;
+}
+.center {
+  text-align: center;
+}
+
+th {
+  background: #333;
+  color: #fff;
+}
+h4 {
+  padding-top: 16px;
+  color: red;
+}
